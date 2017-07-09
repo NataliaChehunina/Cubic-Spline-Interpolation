@@ -1,0 +1,5 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab6\Lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
